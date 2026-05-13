@@ -1,6 +1,12 @@
 //TEMPLATE
 
 export default function Entry(props) {
+
+    /*const propsElement = props.map( (props) => {
+        return 
+    })
+        */
+
     return (
         <article className="journal-entry">
             <div className="main-image-container">
